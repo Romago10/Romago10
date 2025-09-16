@@ -15,7 +15,8 @@ My goal: land a **data analytics role** where I can apply my skills in **SQL, Py
 - Demonstrated **data visualization, slicers, and executive storytelling**.  
 
 *Sample Dashboard:*  
-![Superstore Dashboard](https://github.com/Romago10/Project1-Superstore/raw/main/powerbi/superstore_dashboard.png)
+![Superstore Dashboard](https://github.com/Romago10/Project1-Superstore/raw/main/powerbi/superstore_dashboard.png)<img width="1692" height="747" alt="Screenshot_Superstore_Dashboard" src="https://github.com/user-attachments/assets/fc1f3f24-8b16-4bc3-a70f-a4d2c3bffc40" />
+
 
 ---
 
