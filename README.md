@@ -3,7 +3,7 @@
 I’m a **Data Analyst** with a background in **Applied Behavior Analysis (ABA)** and a passion for transforming raw data into clear, actionable insights.  
 I build **dashboards, SQL queries, and Python analyses** that help teams make smarter business decisions.  
 
-💡 My goal: land a **data analytics role** where I can apply my skills in **SQL, Python, Power BI, and Excel** while continuously learning and growing.  
+My goal: land a **data analytics role** where I can apply my skills in **SQL, Python, Power BI, and Excel** while continuously learning and growing.  
 
 ---
 
